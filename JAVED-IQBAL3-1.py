@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: utf-8
 
-#AUTHOR : Ebere Emmanuel  (NNM TEAM)
+#AUTHOR : Ebere Emmanuel  (SARS)
 #OPEN SOURCE :)
 #DON'T FORGET TO GIVE CREDIT TO NNM
 
@@ -43,7 +43,7 @@ loc = requests.get('https://ipapi.com/ip_api.php?ip=' + ip, headers={'Referer': 
 def linex():
 	os.system('echo  "\n ======================================\n" | lolcat -a -d 2 -s 50')
 def logo():
-	os.system('echo "\n   \n \n  \n  \n  \n    ░\n     ░\n       ░\n        ░\n            ░\n  \n   \n    ║ TOOL NAME: { NNM }        ║\n    ║ AUTHOR   : JAVED IQBAL     ║\n    ║ GITHUB   : javediqbalbalooch1    \n   JAVED" | lolcat -a -d 2 -s 50')	
+	os.system('echo "\n   \n \n  \n  \n  \n    ░\n     ░\n       ░\n        ░\n            ░\n  \n   \n    ║ TOOL NAME: { SARS)    ║\n    ║ AUTHOR   : VERIFIED AZA   ║\n    ║ GITHUB   : Pandacob    \n   JAVED" | lolcat -a -d 2 -s 50')	
 
 def main():
 	os.system("clear")
@@ -53,7 +53,7 @@ def main():
 	print("\033[92;1m  [1] Git Crack Now")
 	print("\033[93;1m  [2] Git Token")
 	print("\033[94;1m  [3] Update Tool")
-	print("\033[96;1m  [J] Join NNM Group\033[92;1m✘\033[91;1m✘")
+	print("\033[96;1m  [J] Join Group https://chat.whatsapp.com/E6P8Ij2eXsZK4DD2aIkaop
 	print("\033[90;1m  [0] EXIT")
 	print("")
 	log_sel()
@@ -82,7 +82,7 @@ def log_sel():
 			print("\033[91;1m\n YOUR DEVICE IS NOT SUPPORTED!\n")
 	        	main()
 	elif sel =="4" or sel =="04" or sel =="J" or sel =="j":
-		subprocess.check_output(["am", "start", "https://t.me/mrerrorgroup"])
+		subprocess.check_output(["am", "start", "https://chat.whatsapp.com/E6P8Ij2eXsZK4DD2aIkaop"])
 		main()
 	elif sel =="0" or sel =="00":
 		xox("\n\t\033[91;1m GOOD BYE SEE YOU AGAIN :)")
@@ -265,7 +265,7 @@ def crack_select1():
 	logo()
 	print("")
 	print("\033[93;1m  TOTAL IDS : \033[92;1m"+str(len(id)))
-	print("\033[92;1m  NNM HAS BEEN STARTED\x1b[0m")
+	print("\033[92;1m  SARS HAS BEEN STARTED\x1b[0m")
 	print("\033[94;1m  WAIT AND SEE \033[92;1m✘\033[91;1m✘\x1b[0m")
 	linex()
 	def main(arg):
